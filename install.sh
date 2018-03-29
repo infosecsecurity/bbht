@@ -1,5 +1,7 @@
 sudo apt-get update
 sudo apt-get -y upgrade
+sudo apt-get install rename
+sudo apt-get install nmap
 sudo apt-get install git
 sudo apt-get install -y python3-pip
 apt install python-pip
